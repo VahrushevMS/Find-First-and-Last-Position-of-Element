@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\прога\LeetCod_2\LeetCod_2\main.cpp(5,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\прога\LeetCod_2\LeetCod_2\main.cpp(29,82): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LeetCod_2.vcxproj -> C:\прога\LeetCod_2\x64\Debug\LeetCod_2.exe
